@@ -5,7 +5,7 @@
 favouriteMovieGenre("military");
 
 // watermelon, tomato, banana, orange, avocado, blueberry
-favouriteFruit("watermelon");
+favouriteFruit("blueberry");
 
 // light, dark
 favouriteMode("dark");
